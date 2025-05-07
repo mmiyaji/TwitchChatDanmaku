@@ -38,6 +38,12 @@
 	"lblOpacity": {
 		"message": "Opazität"
 	},
+	"tipEmoteScale": {
+		"message": "The size of the emote"
+	},
+	"lblEmoteScale": {
+		"message": "Emote Size"
+	},
 	"tipApply": {
 		"message": "Übernehmen Sie die aktuellen Einstellungen."
 	},

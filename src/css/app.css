@@ -23,6 +23,12 @@
 #danmaku-container[data-danmaku-mode=default] .danmaku-chat .danmaku-message {
   color: white;
 }
+#danmaku-container[data-danmaku-mode=default] .danmaku-chat img{
+  transform: scale(var(--emoteScale, 1.3)) translateY(-10%);
+  transform-origin: center;
+  width: auto;
+  height: auto;
+}
 #danmaku-container[data-danmaku-mode=default][data-text-decoration=stroke] .danmaku-chat {
   text-shadow: -2px -2px 0 rgba(0, 0, 0, 0.6), 2px -2px 0 rgba(0, 0, 0, 0.6), -2px 2px 0 rgba(0, 0, 0, 0.6), 2px 2px 0 rgba(0, 0, 0, 0.6);
 }

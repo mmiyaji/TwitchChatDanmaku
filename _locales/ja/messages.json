@@ -38,6 +38,12 @@
 	"lblOpacity": {
 		"message": "透明度"
 	},
+	"tipEmoteScale": {
+		"message": "弾幕のエモートサイズ"
+	},
+	"lblEmoteScale": {
+		"message": "エモートサイズ"
+	},
 	"tipDanmakuDensity": {
 		"message": "弾幕の高さ制限"
 	},

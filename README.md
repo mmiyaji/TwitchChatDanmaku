@@ -2,6 +2,9 @@
 
 <hr/>
 
+## Fork
+エモートのサイズを設定から可変とする
+
 ### [English Documentation](#summary)
 ### [中文说明](#中文说明-1)
 

@@ -38,6 +38,12 @@
 	"lblOpacity": {
 		"message": "透明度 "
 	},
+	"tipEmoteScale": {
+		"message": "The size of the emote"
+	},
+	"lblEmoteScale": {
+		"message": "Emote Size"
+	},
 	"tipDanmakuDensity": {
 		"message": "彈幕的高度限制"
 	},
